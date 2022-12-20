@@ -2,4 +2,6 @@
     <string name="app_name">Test</string>
     <string name="name">Sheikh Md. Rubayet</string>
     <string name="life">I am a student of Bangladesh University of Business and Technology</string>
+    <string name="log">Login</string>
+    <string name="logout">Logout</string>
 </resources>
